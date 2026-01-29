@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Sarami 👋  
+🎓 IT Undergraduate  
+💻 Learning Web Development  
+🌱 Currently improving my coding skills  
+🎯 Goal: Become a full-stack developer  
 
-<!--
-**Saramee-vihanga/Saramee-vihanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠 Tech I’m Learning
+- HTML  
+- CSS  
+- JavaScript  
+- PHP  
+- MySQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📌 Projects
+🔹 Terrarium Blog Website  
+🔹 Simple To-Do Web App (Coming Soon)
+
+---
+
+### 📫 Connect with Me
+- YouTube: (your channel link)
