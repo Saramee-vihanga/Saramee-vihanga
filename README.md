@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqfD9IdcJzC0PT1wfK-IDGAgqU-iB7McBr8Q&usqp=CAU)]
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqfD9IdcJzC0PT1wfK-IDGAgqU-iB7McBr8Q&usqp=CAU)
 # Hi, I'm Sarami 👋  
 🎓 IT Undergraduate  
 💻 Learning Web Development  
