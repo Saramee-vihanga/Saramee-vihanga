@@ -10,16 +10,11 @@
 - HTML  
 - CSS  
 - JavaScript  
-- PHP  
-- MySQL  
-
----
-
-### 📌 Projects
-🔹 Terrarium Blog Website  
-🔹 Simple To-Do Web App (Coming Soon)
-
+- PHP
+- Java 
+- MySQL
+- 
 ---
 
 ### 📫 Connect with Me
-- YouTube: (your channel link)
+- YouTube: ([your channel link](https://www.youtube.com/@SavisDiary4))
