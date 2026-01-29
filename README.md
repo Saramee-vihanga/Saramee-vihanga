@@ -13,8 +13,10 @@
 - PHP
 - Java 
 - MySQL
-- 
+  
 ---
 
 ### 📫 Connect with Me
-- YouTube: ([your channel link](https://www.youtube.com/@SavisDiary4))
+- YouTube: ([Savi's Diary](https://www.youtube.com/@SavisDiary4))
+- Linkedin: ([Linkedin]https://www.linkedin.com/in/saramee-vihanga-520b78328/)
+-  
